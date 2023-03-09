@@ -1,5 +1,5 @@
 numpy==1.14.05
-pandas==0.03.45 ## Added by Rahul
+pandas== 2.15 ### Updated in Master branch
 scikit_learn==0.20.3
 joblib==0.13.2
 Scipy=1234
