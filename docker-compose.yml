@@ -12,7 +12,7 @@ services:
 
   python:
     build: ./AppPython
-    container_name: App_Python
+    container_name: App_Python #Added in latest version
     volumes: 
       - ./AppPython/:/AppPython
     ports:
